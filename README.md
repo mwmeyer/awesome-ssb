@@ -50,6 +50,7 @@
 * [ssb-private](https://github.com/ssbc/ssb-private) - Scuttlebot plugin for indexed private messages
 * [react-native-scuttlebot](https://github.com/ssbc/react-native-scuttlebot) - A variant of scuttlebot tailored for React Native projects
 * [react-native-ssb-client](https://github.com/ssbc/react-native-ssb-client) - A variant of `ssb-client` tailored for React Native projects
+* [ssb-usage-stats](https://github.com/ssbc/ssb-usage-stats) - Shows SSB user growth and activity over time.
 
 ---
 
