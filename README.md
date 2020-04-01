@@ -26,8 +26,11 @@
 
 #### Developer Libs/Tools
 * [scuttlebot](https://github.com/ssbc/scuttlebot)
-* [easy-ssb-pub](https://github.com/staltz/easy-ssb-pub)
 * [git-ssb](https://github.com/clehner/git-ssb)
+
+#### Pub Hosting/Management
+* [ssb-pub](https://github.com/ahdinosaur/ssb-pub) - Easy way to setup your own Pub.
+* [easy-ssb-pub](https://github.com/staltz/easy-ssb-pub) - (No longer maintained) Alternative easy setup script.
 
 #### Consumer Apps
 * [Patchwork](https://github.com/ssbc/patchwork) `(social)`
