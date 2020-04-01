@@ -25,9 +25,10 @@
 * [Python](https://github.com/pferreir/pyssb)
 
 #### Developer Libs/Tools
-* [scuttlebot](https://github.com/ssbc/scuttlebot)
+* [ssb-server](https://github.com/ssbc/ssb-server) - Previously known as `scuttlebot`, the core Scuttlebutt server.
 * [easy-ssb-pub](https://github.com/staltz/easy-ssb-pub)
 * [git-ssb](https://github.com/clehner/git-ssb)
+* [ssb-cli](https://github.com/fraction/ssb-cli) - A CLI for running SSB commands.
 
 #### Consumer Apps
 * [Patchwork](https://github.com/ssbc/patchwork) `(social)`
