@@ -8,7 +8,8 @@
 > An open source peer-to-peer software ecosystem for building decent(ralised) applications
 
 #### About SSB
-* [SSB Handbook](https://www.scuttlebutt.nz)
+* [SSB Handbook](https://handbook.scuttlebutt.nz/)
+* [Scuttlebutt Applications](https://handbook.scuttlebutt.nz/applications)
 * [Scuttlebot Directory](https://scuttlebot.io)
 * [Secure Scuttlebutt Consortium Repo](https://github.com/ssbc)
 * [An off-grid social network](https://staltz.com/an-off-grid-social-network.html)
